@@ -4,19 +4,15 @@
 
 - [Introduction](#1Introduction)
 - [Data Description](#Data_Description)
-[3Methodologyn](#Methodology)
-- [3.1 Data Preprocessing](#Methodology)
+- [Methodologyn](#Methodology)
+- [Data Preprocessing](#Data_Preprocessing)
+- [Descriptive Analysis](#Descriptive_Analysis)
+- [Results and Outputs](#Results_and_Outputs)
+- [Requirements and Environment](#Requirements_and_Environment)
+- [Installation and Execution](#Installation_and_Execution)
+- [Contribution and Contact](#Contribution_and_Contact)
 
-3. Methodology
+---
 
+Introduction
 
-
-3.2 Descriptive Analysis
-
-4. Results and Outputs
-
-5. Requirements and Environment
-
-6. Installation and Execution
-
-7. Contribution and Contact
