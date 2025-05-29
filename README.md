@@ -2,12 +2,12 @@
 
 ##  Table of Contents
 
-- [Introduction](#1Introduction)
-- [Data Description](#Data_Description)
-- [Methodology](#Methodology)
-- [Data Preprocessing](#Data_Preprocessing)
-- [Descriptive Analysis](#Descriptive_Analysis)
-- [Results and Outputs](#Results_and_Outputs)
+- [Introduction](#introduction)
+- [Data Description](#data_description)
+- [Methodology](#methodology)
+- [Data Preprocessing](#data_preprocessing)
+- [Descriptive Analysis](#descriptive_analysis)
+- [Results and Outputs](#results_and_outputs)
 
 ---
 
