@@ -2,13 +2,14 @@
 
 ##  Table of Contents
 
-- [3.2 Descriptive Analysis](#32-descriptive-analysis)
-
-2. Data Description
+- [Introduction](#1Introduction)
+- [Data Description](#Data_Description)
+[3Methodologyn](#Methodology)
+- [3.1 Data Preprocessing](#Methodology)
 
 3. Methodology
 
-3.1 Data Preprocessing
+
 
 3.2 Descriptive Analysis
 
