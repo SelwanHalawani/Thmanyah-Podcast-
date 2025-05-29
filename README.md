@@ -34,4 +34,4 @@ This project aims to perform an initial data analysis of podcast listening recor
 * Lorenz Curve of User Listen Counts
 
 ### Results and Outputs
-Analytical charts are saved under [Figures File](URL) for key findings.
+Analytical charts are saved under [Figures File](https://github.com/SelwanHalawani/Thmanyah-Podcast-/tree/main/Figures) for key findings.
